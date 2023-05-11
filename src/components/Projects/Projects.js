@@ -27,7 +27,7 @@ function Projects() {
                             isBlog={false}
                             title="SWAPI"
                             description="Star Wars app, fetching data from API and implementing on page"
-                            ghLink="https://github.com/4maki"
+                            ghLink="https://github.com/4maki/SWAPI"
                         />
                     </Col>
 
@@ -47,7 +47,7 @@ function Projects() {
                             isBlog={false}
                             title="Masklin&lata"
                             description="Restaurant landing page with few components"
-                            ghLink="https://github.com/"
+                            ghLink="https://github.com/4maki/masklin"
                         />
                     </Col>
                 </Row>
